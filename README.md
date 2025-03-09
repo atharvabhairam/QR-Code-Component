@@ -1,6 +1,6 @@
 # QR Code Component
 
-This project is a simple QR code component built as part of a challenge from [Frontend Mentor](https://www.frontendmentor.io). It is designed to improve front-end skills by building practical, real-world projects. The component features a QR code that, when scanned, directs users to the Frontend Mentor website to further enhance their coding skills.
+This project is a simple QR code component built as part of a challenge from ![Frontend Mentor](https://www.frontendmentor.io). It is designed to improve front-end skills by building practical, real-world projects. The component features a QR code that, when scanned, directs users to the Frontend Mentor website to further enhance their coding skills.
 
 ## Features
 
