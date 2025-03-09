@@ -10,7 +10,7 @@ This project is a simple QR code component built as part of a challenge from ![F
 
 ## Live Demo
 
-You can view the live demo of this project [here](#) (https://beautiful-vacherin-9eb16b.netlify.app/).
+You can view the live demo of this project [here](https://beautiful-vacherin-9eb16b.netlify.app/)
 
 ## Screenshot
 
